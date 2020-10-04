@@ -1,0 +1,2 @@
+History ( company, years, checkIn ) 
+Employee ( company, firstname, lastname, sexe, birthday, profession, nationality ) 
